@@ -18,9 +18,12 @@ alt="Profile Pic"
 <div className="split right">
 <div className="centered">
 <div className="name_title">Angela</div>
-<div className="brief_description"> Hi! My name is Angela; rising junior majoring in computer science. 
-  <div>I really like art, music, and food. Cooking and painting are my favorite hobbies. I also recently tried pottery.</div>
-</div>
+<div className="brief_description"> Hi! My name is Angela. I am a rising junior at Georgia Tech.
+  <div> </div>
+  <div> I really like art, music, and food. Cooking and painting are my favorite hobbies.</div>
+  <div> </div>
+  <div>Fun Fact: I recently tried pottery for the first time! </div>
+</div> 
 </div>
 </div>
 </div>
